@@ -1,2 +1,202 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+## Podkreślenia UNDERLINE
+
+niektórym ludziom nie wystarcza pogrubienia i podświetlenia. Potrzebują również <ins>podkreślenia danych zdań lub stwierdzeń. <ins>
+
+## Wcięcie // Spacja nie łamiąca INTEND (TAB)
+
+&nbsp&nbsp&nbsp&nbsp Wszystko zaczeło się dawno dawno temu, jeszcze w latach 90 XX wieku na przedmieściach Dallas. John był drobnym złodziejaszkiem lecz miało sie to wkrótce zmienić. 
+
+
+ ## Wyśrodkowanie CENTER
+
+<center>Rozdział I <Center>
+
+&nbsp&nbsp&nbsp&nbsp Wszystko zaczeło się dawno dawno temu, jeszcze w latach 90 XX wieku na przedmieściach Dallas. John był drobnym złodziejaszkiem lecz miało sie to wkrótce zmienić. 
+
+## COLOR (thanks html or css)
+
+<font color="red">This text is red!</font>  
+<font color="green"> a ten zielony <font/>
+
+
+
+<p style="color:blue">Make this text blue.</p>
+
+## Comments
+
+- [comment]:  <> (<W visual studio ta opcja działa>)
+- [//]: <> (< drugi sposob na ukryte komentarze>)
+
+```
+[comment]: <> (<tu wpisujemy ukryty komenarz>)
+[//]: <> (<tu wpisujemy komentar do ukrycia>)
+# markdown 
+
+
+
+## Nagłówki
+
+H1-H6 
+tylko jeden H1 w całym pliku 
+
+## Linie poziome 
+
+---
+
+## formatowanie tekstu
+
+linia 1  
+linia 2  
+linia tekstu 3 [^2]
+### italic  kursywa
+
+używając kombinacji *ctr+ i* wpisujemy jedną gwiazdkę 
+
+### bold pogrubienie
+
+używając kombinacji **ctr+B** wpisujemy dwie gwiazdki
+
+### Strikethrough
+
+wystarczy wpisać  "~ ~" bez przerwy i mamy ~~skreślony tekst 
+
+##Bloki tekstu 
+
+### cytat
+
+>Jestem hardcorem
+
+>ała i teraz mnie wszystko boli
+
+###kod żródłowy
+
+```python
+s = "typ python, z podświetleniem"
+print s
+```
+
+## Listy
+
+### Listy numerowane 
+1. podpunkt listy 1
+3. podpunkt listy dwa 
+4. i kolejny podpunkt
+
+### Listy nienumerowane
+
+- linia punkt 1
+- podpunkt 2  
+- no i trzy
+
+### Listy zadań 
+
+[x] complited task
+[]  incompited task
+
+
+- [x]  complited task
+- [ ] still to do
+
+
+## Odnośniki 
+
+### hyperlink
+
+kliknij [tutaj](www.googe.com "wyszukiwarka") aby otworzyć wyszukiwarkę 
+
+### Referencja
+
+kliknij [tutaj](1 ) aby otworzyć wyszukiwarkę 
+kliknij [tu](1) aby otworzyć inną wyszukiwarkę
+
+[1]: www.google.com  
+
+
+### obrazek
+
+![](https://orientarium.lodz.pl/assets/2022/02/kotek-rudy-591x601.jpg)
+
+
+
+## Tabela
+
+|data| ilość| cena|
+|-   |:-:   |-:   |
+25.01|2|5
+26.01|4|20
+12.02|   7  | 45
+
+
+
+
+## Emoji
+
+:+1:
+:v:
+
+[emoji cheat-sheets](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
+## Przypisy FOOTNOTES
+
+
+Badania naukowe mówia o tym że kto je pomidory je też ogórki [^1]
+
+
+
+[^1]: badania przeprowdzono na jednej osobie w Kansas city w 2022r. 
+
+
+## Podświetlenia HIGHLIGHT
+
+==bardzo ważne== w kontekście tego co się wydarzy
+
+
+
+## Indeksy 
+
+### Indeks górny  SUPERSCIRPT
+coś^coś^ powinno dać coś do coś 
+X==^==2==^== powinno dać X do kwadratu
+
+### Indeks Dolny SUBSCRIPT
+
+H==~==2==~==`O
+
+## Podkreślenia UNDERLINE
+
+niektórym ludziom nie wystarcza pogrubienia i podświetlenia. Potrzebują również <ins>podkreślenia danych zdań lub stwierdzeń. <ins>
+
+## Podkreślenia UNDERLINE
+
+niektórym ludziom nie wystarcza pogrubienia i podświetlenia. Potrzebują również <ins>podkreślenia danych zdań lub stwierdzeń. <ins>
+
+## Wcięcie // Spacja nie łamiąca INTEND (TAB)
+
+&nbsp&nbsp&nbsp&nbsp Wszystko zaczeło się dawno dawno temu, jeszcze w latach 90 XX wieku na przedmieściach Dallas. John był drobnym złodziejaszkiem lecz miało sie to wkrótce zmienić. 
+
+
+ ## Wyśrodkowanie CENTER
+
+<center>Rozdział I <Center>
+
+&nbsp&nbsp&nbsp&nbsp Wszystko zaczeło się dawno dawno temu, jeszcze w latach 90 XX wieku na przedmieściach Dallas. John był drobnym złodziejaszkiem lecz miało sie to wkrótce zmienić. 
+
+## COLOR (thanks html or css)
+
+<font color="red">This text is red!</font>  
+<font color="green"> a ten zielony <font/>
+
+
+
+<p style="color:blue">Make this text blue.</p>
+
+## Comments
+
+- [comment]:  <> (<W visual studio ta opcja działa>)
+- [//]: <> (< drugi sposob na ukryte komentarze>)
+
+```
+[comment]: <> (<tu wpisujemy ukryty komenarz>)
+[//]: <> (<tu wpisujemy komentar do ukrycia>)

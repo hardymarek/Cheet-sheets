@@ -1,0 +1,29 @@
+<!doctype html> <!-- docs declaration-->
+<html lang="pl"> <!--language declaration for our website-->
+
+<head>
+    <title>Sample website </tittle> <!-- displeyed text in web browser bar-->
+        <meta charset="UTF-8" /> <!--it's for polishl language characters -->
+        <meta name="description" content="content hire max 160 characters" />
+        <!--displeyed text under over website in search engine-->
+        <meta name"keywords" content="keyword1, keyword2" />
+        <meta http-equiv="refresh" content="20" /> <!--refresh page for every 20 second-->
+        <meta http-equiv="content-language" content="pl" /> <!--am not sure it's really needed-->
+        <meta name="robots" content="index, no follow" />
+        <title>Sample website </tittle> <!-- displeyed text in web browser bar-->
+            <lin rel="stylesheet" href="css/main.css">
+                <link rel="shortcut icon" href="icon_adres"> <!-- if you wanna a personal icon web browser bar-->
+</head>
+
+<body> <!--contents of the page-->
+    <header>
+        << /header>
+            </nav>
+            <section>
+                <article></article>
+            </section>
+            <aside> side column</aside>
+            <footer></footer>
+</body>
+
+</html>

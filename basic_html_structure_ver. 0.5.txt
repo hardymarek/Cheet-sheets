@@ -1,7 +1,7 @@
 <!doctype html> <!-- docs declaration-->
 <html lang="pl"> <!--language declaration for our website-->
 
-<head>
+    <head>
     <title>Sample website </tittle> <!-- displeyed text in web browser bar-->
         <meta charset="UTF-8" /> <!--it's for polishl language characters -->
         <meta name="description" content="content hire max 160 characters" />
@@ -13,9 +13,9 @@
         <title>Sample website </tittle> <!-- displeyed text in web browser bar-->
             <lin rel="stylesheet" href="css/main.css">
                 <link rel="shortcut icon" href="icon_adres"> <!-- if you wanna a personal icon web browser bar-->
-</head>
+    </head>
 
-<body> <!--contents of the page-->
+    <body> <!--contents of the page-->
     <header>
         << /header>
             </nav>
@@ -24,6 +24,6 @@
             </section>
             <aside> side column</aside>
             <footer></footer>
-</body>
+    </body>
 
 </html>
